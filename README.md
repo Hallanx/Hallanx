@@ -2,11 +2,15 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+Sou+Alan__Vaz__Cardoso!;+Hello!👋;+I+am+Alan__Vaz__Cardoso!;" />
 </h1>
 
+<div align="center" >
 - 🔭 Hoje trabalho com front-end / Today I work with front-end
+   <br>
 - 🌱 Estudando back-end / Studying back-end
+   <br>
 - 📫 contate-me no e-mail: alanvazcardoso@gmail.com / How to reach me: alanvazcardoso@gmail.com
+   <br>
 - 😄 Pronouns: ele/dele
-
+</div>
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
