@@ -1,4 +1,4 @@
-## Olá! Eu sou Alan Vaz Cardoso 👋
+## Olá! Eu sou Alan Vaz Cardoso 👋 / Hello! I am Alan Vaz Cardoso 👋 
 
 - 🔭 Hoje trabalho com front-end / Today I work with front-end
 - 🌱 Estudando back-end / Studying back-end
