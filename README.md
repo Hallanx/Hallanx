@@ -5,7 +5,7 @@
 <div align="center" >
 - 🔭 Hoje trabalho com front-end / Today I work with front-end
    <br>
-- 🌱 Estudando back-end / Studying back-end
+- 🌱 back-end / back-end
    <br>
 - 📫 contate-me no e-mail: alanvazcardoso@gmail.com / How to reach me: alanvazcardoso@gmail.com
    <br>
